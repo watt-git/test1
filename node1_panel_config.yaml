@@ -1,6 +1,6 @@
+cellIdPreamble: "cell-"
 cells:
-  enp0s3:
+  cell-dMx80yG5e9usobm-SpD_-1:
     link:
       url: 'http://localhost:3000/goto/Jw-gaQCIR?orgId=1'
-      params: 'time'
-      sameTab: True
+      sameTab: False
