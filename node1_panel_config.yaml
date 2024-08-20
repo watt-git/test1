@@ -1,8 +1,6 @@
-#------------------------------------------------------------------------------
-# Panel Config
-
-# Version 1.6.0 onwards: When undefined the background color is not driven. When defined the color for
-# the current theme is used. Colors can be entered in all the normal ways of name, hex, hsl, etc.
-background:
-  darkThemeColor: "yellow"
-  lightThemeColor: "green"
+cells:
+  enp0s3:
+    link:
+      url: 'http://localhost:3000/goto/Jw-gaQCIR?orgId=1'
+      params: 'time'
+      sameTab: True
